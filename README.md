@@ -16,7 +16,7 @@ I am passionate about advancing my expertise in **cybersecurity**, with a strong
 | Secure Application Development (Python, SQL) | [Bookstore Inventory Management System](https://github.com/06phildale/Bookstore-Management-System) |
 | Data Validation, Error Handling & Modular Code Design | [Task Manager Enhancement Project](https://github.com/06phildale/Task-Manager-Enhancement) |
 | File Handling and Object-Oriented Programming | [Inventory Management System](https://github.com/06phildale/Inventory-Management-System) |
-| Encryption Algorithms & ASCII Manipulation | [Custom Cipher Encoder](#custom-cipher-encoder) |
+| Encryption Algorithms & ASCII Manipulation | [Custom Cipher Encoder](https://github.com/06phildale/Custom-Cipher-Encoder) |
 | Vulnerability Scanning & Exploitation (Nmap, Metasploit) | [Penetration Testing Case Study](#penetration-testing-case-study) |
 | Financial Computation & User Interface Design | [Finance Calculator](https://github.com/06phildale/Finance-Calculator) |
 | Database Design & Query Optimization | [Bookstore Inventory Management System](https://github.com/06phildale/Bookstore-Management-System) |
@@ -65,7 +65,7 @@ An improved task management program with functions for user registration, task t
 ### | [Inventory Management System](https://github.com/06phildale/Inventory-Management-System) |
 A Python class-based inventory tool using `inventory.txt` data to calculate item values, manage stock levels, and identify restock opportunities. Showcases **object-oriented design** and **data manipulation**.
 
-### [Custom Cipher Encoder](#)
+### | [Custom Cipher Encoder](https://github.com/06phildale/Custom-Cipher-Encoder) |
 A Caesar-style cipher written in Python using ASCII value manipulation. Encodes and decodes messages securely while handling upper/lowercase and punctuation.
 
 ### [Penetration Testing Case Study](#)
