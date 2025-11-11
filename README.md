@@ -14,7 +14,7 @@ I am passionate about advancing my expertise in **cybersecurity**, with a strong
 | Skill | Associated Project |
 |-------|--------------------|
 | Secure Application Development (Python, SQL) | [Bookstore Inventory Management System](https://github.com/06phildale/Bookstore-Management-System) |
-| Data Validation, Error Handling & Modular Code Design | [Task Manager Enhancement Project](#task-manager-enhancement-project) |
+| Data Validation, Error Handling & Modular Code Design | [Task Manager Enhancement Project](https://github.com/06phildale/Task-Manager-Enhancement) |
 | File Handling and Object-Oriented Programming | [Inventory Management System](#inventory-management-system) |
 | Encryption Algorithms & ASCII Manipulation | [Custom Cipher Encoder](#custom-cipher-encoder) |
 | Vulnerability Scanning & Exploitation (Nmap, Metasploit) | [Penetration Testing Case Study](#penetration-testing-case-study) |
@@ -59,7 +59,8 @@ A Python-based program to calculate investment growth or loan repayments. Demons
 ### | [Bookstore Inventory Management System](https://github.com/06phildale/Bookstore-Management-System) |
 A Python and SQL application designed to manage book inventory. Features CRUD operations, relational database design, and **data integrity validation**.
 
-### [Task Manager Enhancement Project](#)
+### [Task Manager Enhancement Project](https://github.com/06phildale/Task-Manager-Enhancement) |
+
 An improved task management program with functions for user registration, task tracking, and automated report generation. Implements **modular programming, file handling**, and **error management**.
 
 ### [Inventory Management System](#)
