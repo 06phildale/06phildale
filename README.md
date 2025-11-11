@@ -35,6 +35,7 @@ I am passionate about advancing my expertise in **cybersecurity**, with a strong
 
 **Cybersecurity Environment**  
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 
 **Cybersecurity & Networking**  
 [![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://nmap.org/)  [![Netdiscover](https://img.shields.io/badge/Netdiscover-555555?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/alexxy/netdiscover)  [![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
