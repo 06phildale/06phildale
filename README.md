@@ -77,7 +77,8 @@ A structured security assessment simulating a real client engagement using **Net
 
 📧 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:philipdale.1994@yahoo.co.uk) 
 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philip-dale-291790b3)
-🌐 [GitHub Portfolio](#)
+🌐 [![Philip Dale GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/06phildale)
+
 
 ---
 
