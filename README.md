@@ -13,13 +13,13 @@ I am passionate about advancing my expertise in **cybersecurity**, with a strong
 
 | Skill | Associated Project |
 |-------|--------------------|
-| Secure Application Development (Python, SQL) | [Bookstore Inventory Management System](#bookstore-inventory-management-system) |
+| Secure Application Development (Python, SQL) | [Bookstore Inventory Management System](https://github.com/06phildale/Bookstore-Management-System) |
 | Data Validation, Error Handling & Modular Code Design | [Task Manager Enhancement Project](#task-manager-enhancement-project) |
 | File Handling and Object-Oriented Programming | [Inventory Management System](#inventory-management-system) |
 | Encryption Algorithms & ASCII Manipulation | [Custom Cipher Encoder](#custom-cipher-encoder) |
 | Vulnerability Scanning & Exploitation (Nmap, Metasploit) | [Penetration Testing Case Study](#penetration-testing-case-study) |
 | Financial Computation & User Interface Design | [Finance Calculator](https://github.com/06phildale/Finance-Calculator) |
-| Database Design & Query Optimization | [Bookstore Inventory Management System](#bookstore-inventory-management-system) |
+| Database Design & Query Optimization | [Bookstore Inventory Management System](https://github.com/06phildale/Bookstore-Management-System) |
 
 ---
 
@@ -56,7 +56,7 @@ I am passionate about advancing my expertise in **cybersecurity**, with a strong
 ### | [Finance Calculator](https://github.com/06phildale/Finance-Calculator) |
 A Python-based program to calculate investment growth or loan repayments. Demonstrates mathematical modelling, user input validation, and real-world financial logic using **math functions**.
 
-### [Bookstore Inventory Management System](#)
+### | [Bookstore Inventory Management System](https://github.com/06phildale/Bookstore-Management-System) |
 A Python and SQL application designed to manage book inventory. Features CRUD operations, relational database design, and **data integrity validation**.
 
 ### [Task Manager Enhancement Project](#)
