@@ -18,7 +18,7 @@ I am passionate about advancing my expertise in **cybersecurity**, with a strong
 | File Handling and Object-Oriented Programming | [Inventory Management System](#inventory-management-system) |
 | Encryption Algorithms & ASCII Manipulation | [Custom Cipher Encoder](#custom-cipher-encoder) |
 | Vulnerability Scanning & Exploitation (Nmap, Metasploit) | [Penetration Testing Case Study](#penetration-testing-case-study) |
-| Financial Computation & User Interface Design | [Finance Calculator](#finance-calculator) |
+| Financial Computation & User Interface Design | [Finance Calculator](https://github.com/06phildale/Finance-Calculator) |
 | Database Design & Query Optimization | [Bookstore Inventory Management System](#bookstore-inventory-management-system) |
 
 ---
@@ -53,7 +53,7 @@ I am passionate about advancing my expertise in **cybersecurity**, with a strong
 
 ## 💼 Projects
 
-### [Finance Calculator](#)
+### | [Finance Calculator](https://github.com/06phildale/Finance-Calculator) |
 A Python-based program to calculate investment growth or loan repayments. Demonstrates mathematical modelling, user input validation, and real-world financial logic using **math functions**.
 
 ### [Bookstore Inventory Management System](#)
