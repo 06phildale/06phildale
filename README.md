@@ -6,7 +6,7 @@ I am a recent graduate of the Cyber Security programme with HyperionDev with a s
 
 ## 🎯 Objective
 
-I am passionate about advancing my expertise in **cybersecurity**, with a strong focus on **threat detection, vulnerability assessment, and penetration testing**. My goal is to identify and mitigate security risks through proactive testing and analysis, contributing to the resilience of enterprise systems and networks.
+I am passionate about advancing my expertise in **tech & cybersecurity**, with a strong focus on **threat detection, vulnerability assessment, and penetration testing**. My goal is to identify and mitigate security risks through proactive testing and analysis, contributing to the resilience of enterprise systems and networks.
 
 
 ## 🧩 Skills and Associated Projects
