@@ -1,13 +1,10 @@
-# Hello, I'm Phil,
+## Hello, I'm Phil
 
-I am a recent graduate of the Cyber Security programme with HyperionDev with a strong foundation in **Python development, database management, and penetration testing**. My portfolio demonstrates my ability to design secure, efficient software systems and perform structured security assessments that align with modern industry practices.
-
----
+I am a recent graduate of the Cyber Security programme with Hyperion-Dev and a self-led Generative AI course, with a strong foundation in Python programming, database management, and AI concepts. My portfolio demonstrates my ability to develop software solutions, handle and analyse data, and apply structured problem-solving to practical, real-world challenges.
 
 ## 🎯 Objective
 
-I am passionate about advancing my expertise in **tech & cybersecurity**, with a strong focus on **threat detection, vulnerability assessment, and penetration testing**. My goal is to identify and mitigate security risks through proactive testing and analysis, contributing to the resilience of enterprise systems and networks.
-
+I am passionate about advancing my expertise in AI and software engineering, with a focus on building intelligent systems, integrating AI capabilities, and solving real-world business problems. My goal is to contribute to innovative projects by developing AI-driven applications and solutions that deliver tangible value, while continuously learning and growing in a fast-paced, technology-driven environment.
 
 ## 🧩 Skills and Associated Projects
 
